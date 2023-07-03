@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/7842d47dcf8b4bdd9a3353f773424c6c/artifacts
+end_time: 1687089715483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7842d47dcf8b4bdd9a3353f773424c6c
+run_name: vaunted-lamb-870
+run_uuid: 7842d47dcf8b4bdd9a3353f773424c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089715327
+status: 3
+tags: []
+user_id: jagadeesh
