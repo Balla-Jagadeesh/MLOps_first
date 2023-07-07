@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/4283544000ab4ba1bcdd72df6cf8acf4/artifacts
+end_time: 1688703587987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4283544000ab4ba1bcdd72df6cf8acf4
+run_name: unleashed-flea-387
+run_uuid: 4283544000ab4ba1bcdd72df6cf8acf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703577815
+status: 3
+tags: []
+user_id: jagadeesh

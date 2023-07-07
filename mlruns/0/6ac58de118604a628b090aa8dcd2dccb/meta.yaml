@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/6ac58de118604a628b090aa8dcd2dccb/artifacts
+end_time: 1688703508339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ac58de118604a628b090aa8dcd2dccb
+run_name: capable-kite-338
+run_uuid: 6ac58de118604a628b090aa8dcd2dccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703499562
+status: 3
+tags: []
+user_id: jagadeesh

@@ -25,9 +25,9 @@ def evaluate(y_true,y_pred,pred_prob):
     rmse=np.sqrt(mean_squared_error(y_true,y_pred))
     r2=r2_score(y_true,y_pred)'''
     accuracy=accuracy_score(y_true,y_pred)
-    roc_auc_score=roc_auc_score(y_true,pred_prob,multi_class='ovr')
+    rc_score=roc_auc_score(y_true,pred_prob,multi_class='ovr')
     #return mae,mse,rmse,r2
-    return accuracy,roc_auc_score
+    return accuracy,rc_score
 
 def main(n_estimators,max_depth):
 
@@ -54,12 +54,15 @@ def main(n_estimators,max_depth):
         pred_prob=rf.predict_proba(X_test)
         #evalutal the model
         #mae,mse,rmse,r2=evaluate(y_test,pred)
-        accuracy,roc_auc_score=evaluate(y_test,pred,pred_prob)
+        accuracy,rc_score=evaluate(y_test,pred,pred_prob)
         mlflow.log_param("n_estimators",n_estimators)
         mlflow.log_param("max_depth",max_depth)
         
         mlflow.log_metric("accuracy",accuracy)
-        mlflow.log_metric("roc_auc_score",roc_auc_score)
+        mlflow.log_metric("roc_auc_score",rc_score)
+
+        #mlflow model logging
+        mlflow.sklearn.log_model(rf,"randomforestcmodel")
         #print(f"mean_absolute_error{mae},mean_squared_error{mse},root mean_absolute_error{rmse},r2_score{r2}")
         print(f"accuracy{accuracy}")
 

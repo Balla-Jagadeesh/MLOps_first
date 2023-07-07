@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/f78d63b4cd36463fa2b5280cd5fe8b7d/artifacts
+end_time: 1688703378078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78d63b4cd36463fa2b5280cd5fe8b7d
+run_name: serious-conch-675
+run_uuid: f78d63b4cd36463fa2b5280cd5fe8b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703370262
+status: 3
+tags: []
+user_id: jagadeesh

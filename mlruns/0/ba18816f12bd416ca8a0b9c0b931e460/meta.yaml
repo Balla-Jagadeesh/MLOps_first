@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/ba18816f12bd416ca8a0b9c0b931e460/artifacts
+end_time: 1688703567933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba18816f12bd416ca8a0b9c0b931e460
+run_name: calm-flea-472
+run_uuid: ba18816f12bd416ca8a0b9c0b931e460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703556770
+status: 3
+tags: []
+user_id: jagadeesh

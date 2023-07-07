@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/c5441b0054ba41a1834bcd6086fddd0b/artifacts
+end_time: 1688703797752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5441b0054ba41a1834bcd6086fddd0b
+run_name: amusing-robin-524
+run_uuid: c5441b0054ba41a1834bcd6086fddd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703787237
+status: 3
+tags: []
+user_id: jagadeesh

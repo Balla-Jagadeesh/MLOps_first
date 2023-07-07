@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/934b63a47b774ff4a9aaeee416885d91/artifacts
+end_time: 1688703776685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 934b63a47b774ff4a9aaeee416885d91
+run_name: adaptable-bass-897
+run_uuid: 934b63a47b774ff4a9aaeee416885d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703766642
+status: 3
+tags: []
+user_id: jagadeesh

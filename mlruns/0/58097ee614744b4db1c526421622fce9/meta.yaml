@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/58097ee614744b4db1c526421622fce9/artifacts
+end_time: 1688703413341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58097ee614744b4db1c526421622fce9
+run_name: sneaky-shrimp-638
+run_uuid: 58097ee614744b4db1c526421622fce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703405114
+status: 3
+tags: []
+user_id: jagadeesh

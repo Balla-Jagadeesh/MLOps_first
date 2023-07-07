@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/9af2585ad1754bd1b3f7ce21b711f91a/artifacts
+end_time: 1688703662933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9af2585ad1754bd1b3f7ce21b711f91a
+run_name: painted-shrike-112
+run_uuid: 9af2585ad1754bd1b3f7ce21b711f91a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703661512
+status: 4
+tags: []
+user_id: jagadeesh

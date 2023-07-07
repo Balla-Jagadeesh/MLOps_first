@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/80b4ee8b8f2d4e5d8182fd0a6664c16e/artifacts
+end_time: 1688703339269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80b4ee8b8f2d4e5d8182fd0a6664c16e
+run_name: stylish-shrike-283
+run_uuid: 80b4ee8b8f2d4e5d8182fd0a6664c16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703330777
+status: 3
+tags: []
+user_id: jagadeesh

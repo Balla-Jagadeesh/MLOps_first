@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/5ce178b534d04967a36b54235f19cab0/artifacts
+end_time: 1688540930084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ce178b534d04967a36b54235f19cab0
+run_name: crawling-shrike-139
+run_uuid: 5ce178b534d04967a36b54235f19cab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688540929054
+status: 3
+tags: []
+user_id: jagadeesh

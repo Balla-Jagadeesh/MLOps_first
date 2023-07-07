@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/2e9ef7885c974e03aa1df758100e3976/artifacts
+end_time: 1688703449257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e9ef7885c974e03aa1df758100e3976
+run_name: adaptable-fowl-41
+run_uuid: 2e9ef7885c974e03aa1df758100e3976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703441528
+status: 3
+tags: []
+user_id: jagadeesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/6b6e39e13b9243ad84777aeeff8a7aef/artifacts
+end_time: 1688703486018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b6e39e13b9243ad84777aeeff8a7aef
+run_name: kindly-fish-37
+run_uuid: 6b6e39e13b9243ad84777aeeff8a7aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703477349
+status: 3
+tags: []
+user_id: jagadeesh

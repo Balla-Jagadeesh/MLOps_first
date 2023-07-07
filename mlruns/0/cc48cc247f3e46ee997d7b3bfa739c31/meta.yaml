@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/cc48cc247f3e46ee997d7b3bfa739c31/artifacts
+end_time: 1688703302409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc48cc247f3e46ee997d7b3bfa739c31
+run_name: mysterious-ox-698
+run_uuid: cc48cc247f3e46ee997d7b3bfa739c31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703287896
+status: 3
+tags: []
+user_id: jagadeesh

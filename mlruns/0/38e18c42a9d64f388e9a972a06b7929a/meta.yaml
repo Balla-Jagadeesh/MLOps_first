@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/38e18c42a9d64f388e9a972a06b7929a/artifacts
+end_time: 1688540366884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e18c42a9d64f388e9a972a06b7929a
+run_name: magnificent-gull-372
+run_uuid: 38e18c42a9d64f388e9a972a06b7929a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688540365125
+status: 4
+tags: []
+user_id: jagadeesh

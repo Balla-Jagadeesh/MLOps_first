@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/31035fb1310c470396c38d5a82f607a2/artifacts
+end_time: 1688703526510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31035fb1310c470396c38d5a82f607a2
+run_name: omniscient-wolf-648
+run_uuid: 31035fb1310c470396c38d5a82f607a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703517888
+status: 3
+tags: []
+user_id: jagadeesh

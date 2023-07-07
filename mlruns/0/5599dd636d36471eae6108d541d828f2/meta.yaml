@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/5599dd636d36471eae6108d541d828f2/artifacts
+end_time: 1688541523060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5599dd636d36471eae6108d541d828f2
+run_name: overjoyed-chimp-464
+run_uuid: 5599dd636d36471eae6108d541d828f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688541500845
+status: 3
+tags: []
+user_id: jagadeesh

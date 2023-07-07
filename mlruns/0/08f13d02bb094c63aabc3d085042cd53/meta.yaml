@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/08f13d02bb094c63aabc3d085042cd53/artifacts
+end_time: 1688703545794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08f13d02bb094c63aabc3d085042cd53
+run_name: skittish-cod-809
+run_uuid: 08f13d02bb094c63aabc3d085042cd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688703536772
+status: 3
+tags: []
+user_id: jagadeesh

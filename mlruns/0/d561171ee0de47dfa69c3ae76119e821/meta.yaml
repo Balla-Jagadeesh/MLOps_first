@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jagadeesh/mlflow/mlruns/0/d561171ee0de47dfa69c3ae76119e821/artifacts
+end_time: 1688541257757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d561171ee0de47dfa69c3ae76119e821
+run_name: charming-sheep-849
+run_uuid: d561171ee0de47dfa69c3ae76119e821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688541255962
+status: 3
+tags: []
+user_id: jagadeesh
